@@ -1,0 +1,42 @@
+_repo: Queen-Victoria_37153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strachey, Lytton
+    alias: Strachey, Giles Lytton
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '576'
+    url: http://www.gutenberg.org/2009/agents/576
+    wikipedia: http://en.wikipedia.org/wiki/Lytton_Strachey
+description: 'In this book, we see Victoria as a strong-willed child with a famous
+  temper, as the 18-year-old girl queen, as a monarch, wife, mother and widow. Lytton
+  Strachey''s acclaimed portrayal of Queen Victoria revolutionised the art of biography
+  by using elements of romantic fiction and melodrama to create a warm, humorous and
+  very human portrait of this iconic figure.  Equally fascinating are the depictions
+  of her relationships: with her governess "precious Lehzen", with Peel, Gladstone
+  and Disraeli, with her beloved Albert and, in later life, her legendary devotion
+  to her Highland servant John Brown, all of which show a different side of the staid,
+  pious image that is so often attached to her. Awarded the James Tait Black Memorial
+  Prize, Strachey''s classic biography remains one of the best and most readable accounts
+  of the Queen who defined an era.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37153'
+  lccn: '21009541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+- !lcsh 'Queens -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+title: Queen Victoria
+url: http://www.gutenberg.org/ebooks/37153
